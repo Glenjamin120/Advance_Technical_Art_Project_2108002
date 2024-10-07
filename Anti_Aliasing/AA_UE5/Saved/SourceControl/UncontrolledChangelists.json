@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hashi/Documents/Unreal Projects/AntiAliasing/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/hashi/Documents/Unreal Projects/AntiAliasing/Content/Rotate.uasset",
+				"C:/Users/hashi/Documents/Unreal Projects/AntiAliasing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CS/LXUCFETL6YY9E8T8UNBKFO.uasset",
+				"C:/Users/hashi/Documents/Unreal Projects/AntiAliasing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/65/ZOYWQTNRNJG0SM6WRZAM4U.uasset",
+				"C:/Users/hashi/Documents/Unreal Projects/AntiAliasing/Content/CubeSpawn.uasset"
+			]
+		}
+	]
+}
